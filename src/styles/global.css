@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply border border-blue-500 bg-blue-500 text-white rounded-[4px] p-2 cursor-pointer;
+}
+
+.round-border {
+    @apply border rounded-[4px] p-2;
+}

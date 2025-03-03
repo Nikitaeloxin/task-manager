@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@import './styles/global.css';
+@plugin '@tailwindcss/typography';
+@plugin '@tailwindcss/forms'
+
